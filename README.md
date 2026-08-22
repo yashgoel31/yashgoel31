@@ -11,7 +11,7 @@ Building **scalable web applications**, **backend systems** and **reliable cloud
 <a href="https://yashgoel.site" target="_blank">
   <img src="https://img.shields.io/badge/🌐_Portfolio-yashgoel.site-0A0A0A?style=for-the-badge" />
 </a>
-<a href="https://www.linkedin.com/in/yash-goel" target="_blank">
+<a href="https://www.linkedin.com/in/yash-goel-11a455303/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://leetcode.com/yashgoel31" target="_blank">
@@ -77,11 +77,11 @@ I'm a **Full Stack Developer and DevOps Engineer** interested in building applic
 ## 🎯 What I'm Focused On
 
 ```text
-Full Stack Development   ██████████████████  Building
-Backend Engineering      ██████████████████  Building
-DevOps & Cloud            █████████████████  Building
-Kubernetes                ███████████████░░░░░  Learning
-System Design             █████████████░░░░░░░  Learning
+Full Stack Development   █████████████████   Building
+Backend Engineering      █████████████████   Building
+DevOps & Cloud           █████████████████   Building
+Kubernetes               ███████████████░░   Learning
+System Design            █████████████░░░░   Learning
 
 ```
 
@@ -99,26 +99,6 @@ Hands-on projects focused on:
 * Reverse Proxy with Nginx
 * Server Scaling
 * Infrastructure Automation
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashgoel31&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashgoel31&layout=compact&hide_border=true&theme=tokyonight" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=yashgoel31&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
