@@ -1,27 +1,34 @@
 <h1 align="center">Hi 👋, I'm Yash Goel</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A passionate Full Stack developer and DevOps Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashgoel31&label=Profile%20views&color=0e75b6&style=flat" alt="yashgoel31" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashgoel31" alt="yashgoel31" /></a> </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yashgoel31/yashgoel31/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
 
-- 🔭 I’m currently working on **advanced backend**
-
-- 🌱 I’m currently learning **Devops**
+- 🔭 I’m currently working on **DevOps**
 
 - 👯 I’m looking to collaborate on **Frontend as well as Backend Projects**
 
-- 🤝 I’m looking for help with **Devops**
+- 🤝 I’m looking for help with **DevOps**
 
-- 💬 Ask me about **Backend, Frontend, Devops, Data Science**
+- 💬 Ask me about **Backend, Frontend, Devops**
 
-- 📫 How to reach me **yashgoelbsr@gmail.com**
+- 📫 How to reach me **yashgoelbsr@gmail.com OR yashgoel.site**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yash goel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash goel" height="30" width="40" /></a>
 <a href="https://instagram.com/yashgoel_31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yashgoel_31" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yashgoel31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yashgoel31" height="30" width="40" /></a>
+  <a href="https://yashgoel.site" target="_blank">
+  <img align="center"
+       src="https://img.icons8.com/ios-filled/50/ffffff/globe.png"
+       alt="Yash Goel Portfolio"
+       height="30"
+       width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
