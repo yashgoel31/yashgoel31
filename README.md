@@ -120,7 +120,7 @@ Hands-on projects focused on:
 <img src="https://img.shields.io/badge/Portfolio-yashgoel.site-black?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/yash-goel">
+<a href="https://www.linkedin.com/in/yash-goel-11a455303/">
 <img src="https://img.shields.io/badge/LinkedIn-Yash%20Goel-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
